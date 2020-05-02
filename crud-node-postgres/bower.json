@@ -1,0 +1,22 @@
+{
+  "name": "Angular-PostgreSQL-CRUD",
+  "version": "0.0.1",
+  "authors": [
+    "paulorcvieira"
+  ],
+  "description": "CRUD Todo connected to PostgreSQL DB",
+  "ignore": [
+    "**/*.txt",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~4.4.1",
+    "angular": "~1.7.9",
+    "angular-route": "~1.7.9"
+  },
+  "license": "MIT",
+  "private": true
+}
