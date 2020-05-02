@@ -175,5 +175,3 @@ Feito isso podemos acessar o IP da nossa máquina na Digital Ocean atravez do no
 - Derruba com o `docker-compose down` e levanta com o `docker-compose up -d`
 
 # Pronto ;)
-
-## Considerações Finais
